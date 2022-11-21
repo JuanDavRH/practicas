@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(240, 204, 157);
+}
+h1 {
+    color: rgb(245, 17, 17); margin-left: 20px;
+}
+h2 {
+    color: rgb(151, 1, 1); margin-left: 20px;
+}
+
+body {
+    font-family: cursive;
+    font-size: 120%;
+  }
+
+  li {
+    color: rgb(8, 105, 84); margin-left: 20px;
+}
+  
+ul {
+    color: rgb(80, 66, 156);
+}
+ol {
+    color: rgb(216, 27, 27);
+}

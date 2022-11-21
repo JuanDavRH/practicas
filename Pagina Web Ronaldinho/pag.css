@@ -1,0 +1,118 @@
+html, body {
+    margin:0%; padding: 0%; border: none;
+}
+#todo {
+    
+    background-color: transparent;
+    width: 1050px;
+   height: 7240px;  
+       float: inherit;
+       margin: 10px 300px 10px 300px;
+   
+    }
+
+#puntos {
+float: left;
+width: 140px;
+height: 500px;
+display: block;
+
+}
+#cabecera {
+    width: 50%;
+    height: 50px;
+    background-color: transparent;
+    border-style: dashed double;
+    border-radius: 8px;
+    border-width: 20px 15px 20px 15px;
+    border-color: rgb(197, 219, 195) rgb(212, 138, 126) rgb(197, 219, 195) rgb(212, 138, 126);
+}  
+#tod {
+    background-color: transparent;
+    width: 550px;
+   height: 5200px;  
+       float: left;
+   margin: auto;
+    }
+
+
+#segundo {
+    background-color: transparent;
+    width: 800px;
+    height: 7800px;  
+    float:left;
+   
+}
+
+#fina {
+    width: 2000;
+    height: 60px;
+    background-color: transparent;
+  float:left;
+}
+
+
+#recort {
+        background-color: transparent;
+        width: 150px;
+       height: 150px;   
+     margin: -100px 10px 5700px 1180px;
+     position: fixed; 
+}
+
+#botones {
+background-color: transparent;
+width: 150px;
+height: 150px;  
+margin: -50px 10px 5700px 1180px;
+position: fixed;
+
+
+
+}
+
+
+#cabe {
+    width: 50%;
+    height: 50px;
+    background-color: transparent;
+    border-style: dashed double;
+    border-radius: 8px;
+    border-width: 20px 15px 20px 15px;
+    border-color: rgb(197, 219, 195) rgb(212, 138, 126) rgb(197, 219, 195) rgb(212, 138, 126);
+}   
+
+#bio {
+    background-color: transparent;
+    width: 1000px;
+   height: 1960px;  
+       float: left;
+   margin: 10px 80px 10px 80px
+}
+
+#recor {
+    background-color: transparent;
+    width: 150px;
+   height: 150px;  
+   margin: -130px 10px 5700px 1180px;
+   position: fixed;
+}
+#fin {
+    width: 2000;
+    height: 90px;
+    background-color: transparent;
+  float:left;
+  margin: 5px 400px 5px 430px
+}
+
+
+
+
+#fina {
+    width: 2000;
+    height: 60px;
+    background-color: transparent;
+  float:inline-end;
+  margin: 10px 400px 10px 390px
+}
+
